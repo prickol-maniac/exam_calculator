@@ -1,0 +1,15 @@
+C:\Users\kaple\source\repos\pr1\pr1\bin\Debug\pr1.exe.config
+C:\Users\kaple\source\repos\pr1\pr1\bin\Debug\pr1.exe
+C:\Users\kaple\source\repos\pr1\pr1\bin\Debug\pr1.pdb
+C:\Users\kaple\source\repos\pr1\pr1\obj\Debug\pr1.csprojAssemblyReference.cache
+C:\Users\kaple\source\repos\pr1\pr1\obj\Debug\MainWindow.g.cs
+C:\Users\kaple\source\repos\pr1\pr1\obj\Debug\App.g.cs
+C:\Users\kaple\source\repos\pr1\pr1\obj\Debug\pr1_MarkupCompile.cache
+C:\Users\kaple\source\repos\pr1\pr1\obj\Debug\pr1_MarkupCompile.lref
+C:\Users\kaple\source\repos\pr1\pr1\obj\Debug\MainWindow.baml
+C:\Users\kaple\source\repos\pr1\pr1\obj\Debug\pr1.g.resources
+C:\Users\kaple\source\repos\pr1\pr1\obj\Debug\pr1.Properties.Resources.resources
+C:\Users\kaple\source\repos\pr1\pr1\obj\Debug\pr1.csproj.GenerateResource.cache
+C:\Users\kaple\source\repos\pr1\pr1\obj\Debug\pr1.csproj.CoreCompileInputs.cache
+C:\Users\kaple\source\repos\pr1\pr1\obj\Debug\pr1.exe
+C:\Users\kaple\source\repos\pr1\pr1\obj\Debug\pr1.pdb
